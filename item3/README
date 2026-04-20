@@ -1,7 +1,7 @@
 Pass item which is a directory into flag
 
 Example:
-d--------- thisIsNotAmswer
+d--------- thisIsNotAnswer
 -r--r--r-- thisIsFile
 
 Then the answer will be "SMC{thisIsNotAnswer}"
