@@ -1,0 +1,8 @@
+Read meta-data
+
+Type of file will be flag.
+
+Example:
+this-is-an-example: gzip compressed data
+
+Flag will be "SMC{gzip}"

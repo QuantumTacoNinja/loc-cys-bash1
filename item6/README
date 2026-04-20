@@ -1,0 +1,7 @@
+The relative path of file "answer" is the flag.
+
+Example:
+
+item6/this/is/not/an/answer
+
+Then the flag will be "SMC{this/is/not/an/answer}"
